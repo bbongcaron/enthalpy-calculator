@@ -1,4 +1,3 @@
-import enum
 from tkinter import *
 from tkinter import messagebox
 import pandas as pd
